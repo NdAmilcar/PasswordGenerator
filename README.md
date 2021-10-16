@@ -1,7 +1,7 @@
 ![generador de contraseña](https://github.com/NdAmilcar/PasswordGenerator/blob/main/img/Amilcar.png)
 
 ## Generador de contraseñas
-# Hecho en react con 4 opciones:
+# Hecho en React, con 4 opciones:
 # -Numero de caracteres.
 # -Incluir Simbolos.
 # -Incluir Numeros.
